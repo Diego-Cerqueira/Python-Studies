@@ -29,7 +29,7 @@ while True:
         elif val_saq > 500:
             print('Valor máximo R$500,00')
         elif val_saq > saldo:
-            print('Saldo insuficuente!! Você tem R$:{:.2f}'.format(saldo))
+            print('Saldo insuficiente!! Você tem R$:{:.2f}'.format(saldo))
         else:
             saldo -= val_saq
             SAQ_DAY += 1
