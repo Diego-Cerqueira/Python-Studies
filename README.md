@@ -14,7 +14,7 @@ Lista de exercícios:
 
 ## [Curso Em vídeo](https://www.cursoemvideo.com/)
 
-Separado em Mundos sendo Python 1, 2 e 3 forma mais de 100 exercícios
+Separado em Python Mubndos 1, 2 e 3 possuíndo mais de 100 exercícios
 
 Lista de Exercícios:
 
