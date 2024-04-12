@@ -17,4 +17,20 @@ Lista de exercícios:
 Separado em Python Mundos 1, 2 e 3 possuíndo mais de 100 exercícios
 
 Lista de Exercícios:
-
+### Mundo 1
+|check|n°|Exercício
+|---|---|---|
+|- [ ]| 001| [Hello World]()|
+|- [ ]| 002| [Interagindo]()|
+|- [ ]| 003| [Soma]()|
+|- [ ]| 004| [Dissecando variável]()|
+|- [ ]| 005| [Antecessor e Sucessor]()|
+|- [ ]| 006| [Dobro,Triplo,Raiz Quadrada]()|
+|- [ ]| 007| [Média Aritimética]()|
+|- [ ]| 008| [Conversor de Medidas]()|
+|- [ ]| 009| [Tabuada]()|
+|- [ ]| 010| [Conversor de Moedas]()|
+|- [ ]| 012| [Calculando Descontos]()|
+|- [ ]| 013| [Reajuste Salarial]()|
+|- [ ]| 014| [Conversor de Temperaturas]()|
+|- [ ]| 015| [Aluguel de Carros]()|
