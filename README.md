@@ -8,7 +8,7 @@ Repositório Utilizado para anexar exercícios de Python dos cursos e Bootcamp q
 Lista de exercícios:
 
 - [x] [Desafio criando um projeto de sistema Bancário](https://github.com/Diego-Cerqueira/Python-Studies/blob/main/DIO%20Exerc%C3%ADcios/DIO%20Criando%20Sistema%20Banc%C3%A1rio.py)
-
+- [x] [Desafio Melhorando projeto de sistema bancário v2.0]() 
 
 
 
