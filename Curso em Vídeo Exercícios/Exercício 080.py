@@ -20,4 +20,4 @@ for c in range (0,5):
         lista.append(numero)
 
 #Apresentação
-print(f'A os números digitados em ordem numpérica é:\n {lista}')
+print(f'A os números digitados em ordem numérica é:\n {lista}')
