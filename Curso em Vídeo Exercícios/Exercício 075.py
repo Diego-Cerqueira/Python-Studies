@@ -6,7 +6,7 @@ tupla = (n1, n2, n3, n4)
 
 print(f'A quantidade de números 9 digitados é: {tupla.count(9)}')
 if 3 in tupla:
-    print(f'A primiera posição do 3 digitado é: {tupla.index(3)+1}')
+    print(f'A primeira posição do 3 digitado é: {tupla.index(3)+1}')
 print('Os números pares digitados foram:', end=' ')
 
 #Verificação e apresentação de pares
