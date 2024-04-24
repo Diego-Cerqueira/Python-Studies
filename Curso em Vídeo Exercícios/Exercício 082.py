@@ -12,7 +12,7 @@ while True:
     
  #Validação de continuidade   
     continuar = input('Deseja continuar?[S/N]: ').upper()
-    if continuar not in ['S','N']: #Se valor não for S ou N
+    while continuar not in ['S','N']: #Se valor não for S ou N
          continuar = input('VALOR INCORRETO digite [S ou N]: ').upper()
     if continuar == 'N': # Se valor for N sai do Loop
         break    
@@ -23,6 +23,15 @@ listimpar = []
 
 for n in lista:
     if n%2 == 0:
-        lis
+        listpar.append(n)
+    else:
+        listimpar.append(n)
+
+#Apresentação
+
+print(f'Foram digitados os seguintes números:\n{lista}')
+print(f'Dos digitados os seguintes foram pares:\n{sorted(listpar)}')
+print(f'Dos digitados os seguintes foram ímpares:\n{sorted(listimpar)}')
+
 
     
