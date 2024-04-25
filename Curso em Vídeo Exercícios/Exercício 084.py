@@ -1,12 +1,12 @@
 #Tilulo
 
-print(f'{'-='*15}\n{"CADASTRO PESO":^30}\n{'=-'*15}')
+print(f'{"-="*15}\n{"CADASTRO PESO":^30}\n{"=-"*15}')
 
 #Variáveis
 
 pesol = 1000
 pesop = 0
-pessoas = [[]]
+pessoas = []
 pessoas_pesadas = []
 pessoas_leves = []
 
@@ -17,7 +17,7 @@ while True:
     peso = float(input('Digite o peso da pessoa(kg): '))
 
 #Tratamento de dados
-    pessoas[0].append([nome,peso])
+    pessoas.append([nome,peso])
 
     if peso > pesop:
         pesop = peso
@@ -31,11 +31,11 @@ while True:
         break
 
 #Organizando dados em lista
-for p in pessoas:
-    if p[1] == pesop:
-        pessoas_pesadas.append(p[0])
-    if p[1] == pesol:
-        pessoas_leves.append(p[0])
+for pessoa in pessoas:
+    if pessoa[1] == pesop:
+        pessoas_pesadas.append(pessoa[0])
+    if pessoa[1] == pesol:
+        pessoas_leves.append(pessoa[0])
 
 #Apresentação
 print(f'''
